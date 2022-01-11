@@ -14,6 +14,6 @@ Features:
 10. The system greets user for a satisfactory experience.
 
 USER MANUAL:
-1. Use the gui() function for using the system.
+1. Use the cui() function for using the system.
 2. Reply y for YES and n for NO, when asked any questions.
 3. Confirm your billing amount during purchase.
